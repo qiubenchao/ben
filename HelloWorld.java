@@ -6,5 +6,6 @@ class  HelloWorld
 		System.out.println("lyd is coding");
 		System.out.println("qiubenchao is coding");
 		System.out.println("1.0 end make a tag");
+		System.out.println("1.0 bugfix");
 	}
 }
